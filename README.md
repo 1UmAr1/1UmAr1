@@ -2,9 +2,13 @@
 
 ![Header Animation](https://github.com/1UmAr1/1UmAr1/blob/main/assets/header.gif)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Niekes/beautiful-backgrounds/main/demo.gif" alt="Animated Background" width="100%" />
+</div>
+
 ## About Me
 
-Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passionate about developing innovative AI and machine learning solutions. Currently, I work as a **Data Scientist** at Emplay Analytics .
+Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passionate about developing innovative AI and machine learning solutions. Currently, I work as a **Data Scientist** at Emplay Analytics
 
 ---
 
@@ -60,15 +64,23 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
 
 ### 📊 GitHub Stats
 
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=1UmAr1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1UmAr1&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1UmAr1&show_icons=true&theme=radical" alt="Umar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1UmAr1&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umar-hajam-929831180)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/1UmAr1)
+<div align="center">
+  <a href="https://www.linkedin.com/in/umar-hajam-929831180">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/1UmAr1">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
@@ -80,8 +92,10 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
 ---
 
 
-![Coding Animation](https://github.com/1UmAr1/1UmAr1/blob/main/assets/coding.gif)
-![Data Science Animation](https://github.com/1UmAr1/1UmAr1/blob/main/assets/data_science.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Danulo004/Canvas_Lines/master/demo.gif" alt="Coding Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/coding.gif" alt="Data Science Animation" width="100%" />
+</div>
 
 ---
 
