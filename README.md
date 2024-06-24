@@ -1,9 +1,12 @@
 # 👋 Welcome to Umar Hajam's GitHub Profile
 
-![Header Animation](https://media.giphy.com/media/QMkPpxPDYY0fu/giphy.gif)
+<div align="center">
+  <iframe src="https://giphy.com/embed/ASd0Ukj0y3qMM" width="480" height="360" style="border:none;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p><a href="https://giphy.com/gifs/the-simpsons-hello-hi-ASd0Ukj0y3qMM">via GIPHY</a></p>
+</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Niekes/beautiful-backgrounds/main/demo.gif" alt="Animated Background" width="100%" />
+  <img src="https://camo.githubusercontent.com/1*3B4AtzXkP5TReuwYJ--PaA.gif" alt="Animated Background" width="100%" />
 </div>
 
 ## About Me
