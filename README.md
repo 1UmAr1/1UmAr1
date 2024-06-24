@@ -3,7 +3,7 @@
 ![Header Animation](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1536104968057-4d61aa56f46a" alt="Background Image" width="100%" />
+  <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Background Image" width="100%" />
 </div>
 
 ## About Me
