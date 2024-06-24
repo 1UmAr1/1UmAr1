@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passionate about developing innovative AI and machine learning solutions. Currently, I work as a **Data Scientist** at Emplay Analytics
+Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passionate about developing innovative AI and machine learning solutions. Currently, I work as a **Data Scientist** at Emplay Analytics.
 
 ---
 
@@ -56,9 +56,13 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
 
 ### 🏆 Certifications
 
-- Exceptional Performance Certificate at Emplay Analytics for SAP/Sapphire Project
-- Co-authorship of research paper on identifying suicidal ideation on social media
-- Certificate of Appreciation from Technocolabs Softwares
+- TEQIP-III RTU (ATU) Sponsored 2nd International Conference on Recent Development in Engineering and Technology (February 2021)
+- Online Training Program on "Robotics and Automation" (February 2021 - March 2021)
+- Certificate of Participation in Online Course on "Geoinformatics for Disaster Management" by Indian Institute of Remote Sensing (April 2021)
+- Five Days Workshop on "Applications of Fractional Calculus in Engineering & Technology" (March 2021)
+- Co-authorship of research paper on "A Novel Hybrid Computational Approach of Feature Engineering for Machine Learning to Identify Suicidal Ideation on Social Media" presented at the 2nd International Conference on Recent Development in Engineering and Technology (February 2021)
+- Certificate of Appreciation from Technocolabs Softwares for the Data Science Internship (April 2021 - May 2021)
+- Completion of the Technocolabs Mentor Program specializing in Data Science and Machine Learning
 
 ---
 
@@ -91,13 +95,24 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
 
 ---
 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Danulo004/Canvas_Lines/master/demo.gif" alt="Coding Animation" width="100%" />
   <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/coding.gif" alt="Data Science Animation" width="100%" />
 </div>
 
 ---
+
+### 📈 Interactive GitHub Repositories Chart
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/1UmAr1" alt="Umar's GitHub Chart" />
+</div>
+
+### 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1UmAr1&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me for any collaboration opportunities.
 
