@@ -1,10 +1,11 @@
 # 👋 Welcome to Umar Hajam's GitHub Profile
 
-![Header Animation](https://github.com/1UmAr1/1UmAr1/blob/main/assets/header.gif)
+![Header Animation](https://media.giphy.com/media/QMkPpxPDYY0fu/giphy.gif)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Niekes/beautiful-backgrounds/main/demo.gif" alt="Animated Background" width="100%" />
 </div>
+
 
 ## About Me
 
