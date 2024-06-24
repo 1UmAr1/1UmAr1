@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passionate about developing innovative AI and machine learning solutions. Currently, I work as a **Data Scientist** at Tiger Analytics and have been offered the role of **Associate Data Science Manager**.
+Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passionate about developing innovative AI and machine learning solutions. Currently, I work as a **Data Scientist** at Emplay Analytics .
 
 ---
 
@@ -79,7 +79,6 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
 
 ---
 
-### 💬 Fun Animations
 
 ![Coding Animation](https://github.com/1UmAr1/1UmAr1/blob/main/assets/coding.gif)
 ![Data Science Animation](https://github.com/1UmAr1/1UmAr1/blob/main/assets/data_science.gif)
