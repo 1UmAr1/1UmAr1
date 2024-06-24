@@ -2,9 +2,6 @@
 
 ![Header Animation](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
-<div align="center">
-  <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Background Image" width="100%" />
-</div>
 
 ## About Me
 
