@@ -24,12 +24,6 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
   - Enhanced user experience with chatbots and search engines using generative AI.
   - Developed question-answer generation systems.
 
-- **Data Science Intern at Technocolabs Softwares (06/2021 - 11/2021)**
-  - Developed models for hair fall pattern recognition and anomaly detection systems.
-  - Conducted sentiment analysis on customer reviews.
-  - Led a team to develop a recommendation system for e-commerce.
-
-
 ---
 
 ### 🎓 Education
@@ -67,14 +61,6 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1UmAr1&show_icons=true&theme=radical" alt="Umar's GitHub stats" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <div align="center">
@@ -87,6 +73,4 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
 </div>
 
 ---
-
-
 
