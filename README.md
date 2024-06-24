@@ -29,6 +29,7 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
   - Conducted sentiment analysis on customer reviews.
   - Led a team to develop a recommendation system for e-commerce.
 
+
 ---
 
 ### 🎓 Education
@@ -70,7 +71,6 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1UmAr1&show_icons=true&theme=radical" alt="Umar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1UmAr1&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -90,23 +90,18 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
 
 ### 📂 Repositories
 
+<details>
+  <summary>Click to see all my repositories</summary>
+
 - [Suicide Sentiment Data](https://github.com/1UmAr1/Suicide-Sentiment-Data)
 - [Project XYZ](https://github.com/1UmAr1/Project-XYZ)
+- [Repo 3](https://github.com/1UmAr1/Repo-3)
+- [Repo 4](https://github.com/1UmAr1/Repo-4)
+- [Repo 5](https://github.com/1UmAr1/Repo-5)
+
+</details>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Danulo004/Canvas_Lines/master/demo.gif" alt="Coding Animation" width="100%" />
-  <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/coding.gif" alt="Data Science Animation" width="100%" />
-</div>
-
----
-
-### 📈 Interactive GitHub Repositories Chart
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/1UmAr1" alt="Umar's GitHub Chart" />
-</div>
 
 ### 📊 Most Used Languages
 
@@ -114,6 +109,32 @@ Hi there! I'm **Umar Hajam**, a Data Scientist and Deep Learning Engineer passio
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1UmAr1&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me for any collaboration opportunities.
+### 📊 Language Usage (X-Y Plane)
 
-![Footer Animation](https://github.com/1UmAr1/1UmAr1/blob/main/assets/footer.gif)
+<div align="center">
+  <img src="https://quickchart.io/chart?c={type:'scatter',data:{datasets:[{label:'Languages',data:[{x:1,y:3,label:'Python'},{x:2,y:2,label:'JavaScript'},{x:3,y:1,label:'HTML'},{x:4,y:4,label:'CSS'},{x:5,y:5,label:'Java'},{x:6,y:6,label:'C++'}]}]}}" alt="Language Usage X-Y Plane" />
+</div>
+
+---
+
+### 🔧 Languages and Tools
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/r/r.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/kubernetes/kubernetes.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/weights-and-biases/weights-and-biases.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/azure/azure.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/power-automate/power-automate.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/aws/aws.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/snowflake/snowflake.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/tableau/tableau.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/powerbi/powerbi.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/kedro/kedro.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/large-language-models/large-language-models.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/elasticsearch/elasticsearch.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/knime/knime.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/469ddc0e9b7b7ab057d3d9d1b21f176cd8dbf2d9/topics/rstudio/rstudio.png"></code>
+
+</p>
