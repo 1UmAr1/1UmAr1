@@ -1,6 +1,6 @@
 # 👋 Welcome to Umar Hajam's GitHub Profile
 
-![Header Animation](https://media.giphy.com/media/QMkPpxPDYY0fu/giphy.gif)
+![Header Animation]([https://media.giphy.com/media/QMkPpxPDYY0fu/giphy.gif](https://giphy.com/gifs/the-simpsons-hello-hi-ASd0Ukj0y3qMM))
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Niekes/beautiful-backgrounds/main/demo.gif" alt="Animated Background" width="100%" />
